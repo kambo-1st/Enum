@@ -1,6 +1,8 @@
 # Kambo PHP enum library
 [![Build Status](https://travis-ci.org/kambo-1st/Enum.svg?branch=master)](https://travis-ci.org/kambo-1st/Enum)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kambo-1st/Enum/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kambo-1st/Enum/?branch=master)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/kambo-1st/Enum.svg?style=flat-square)](https://scrutinizer-ci.com/g/kambo-1st/Enum/)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 Just another PHP enumeration library
 
