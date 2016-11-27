@@ -1,0 +1,26 @@
+{
+    "name": "kambo/enum",
+    "description": "Simple enumeration library",
+    "license": "MIT",
+    "type": "library",    
+    "keywords": ["enumeration"],
+    "authors": [
+        {
+            "name": "Bohuslav Simek",
+            "email": "bohuslav@simek.si"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kambo\\Enum\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kambo\\Tests\\Enum\\": "tests/"
+        }
+    }    
+}
